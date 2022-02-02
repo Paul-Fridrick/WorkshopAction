@@ -16,4 +16,4 @@ jobs:
     - name: make
       run: make
     - name: prog
-      run: ./func_test
+      run: ./func_test 1
