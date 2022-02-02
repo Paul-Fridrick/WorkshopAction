@@ -22,7 +22,7 @@ $(NAME):	$(OBJ)
 
 clean:
 	rm -f $(OBJ)
-$
+
 fclean:	clean
 	rm -f $(NAME)
 
